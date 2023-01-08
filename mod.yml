@@ -1,0 +1,7 @@
+title: OOF
+description: Changes the death sound to the Roblox 'Oof' sound. A mod for roromaniac8!
+assets:
+- name: voice/us/battle/al0_sora.win32.scd
+  method: copy
+  source:
+  - name: voice/us/battle/al0_sora.win32.scd
